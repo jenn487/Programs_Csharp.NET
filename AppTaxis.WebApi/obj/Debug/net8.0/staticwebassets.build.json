@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YLnBcIpvO4YHGJe9KJMnG0IJs8jrz/A8SIDpNuyDcQU=",
+  "Source": "AppTaxis.WebApi",
+  "BasePath": "_content/AppTaxis.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

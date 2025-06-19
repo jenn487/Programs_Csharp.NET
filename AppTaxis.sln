@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTaxis.Domain", "AppTaxis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTaxis.Persistence", "AppTaxis.Persistence\AppTaxis.Persistence.csproj", "{15C92B17-FCEC-4F17-8A46-A597FC0992F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTaxis.Application", "AppTaxis.Application\AppTaxis.Application.csproj", "{FDD664D2-C7F4-4C09-AB3F-9CC50FEB5F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTaxis.WebApi", "AppTaxis.WebApi\AppTaxis.WebApi.csproj", "{F96F701A-4F05-41A0-A0A6-BE950CD561AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTaxis.Web", "AppTaxis.Web\AppTaxis.Web.csproj", "{2138636E-9FEC-4640-BB09-4C88D4F77037}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{15C92B17-FCEC-4F17-8A46-A597FC0992F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15C92B17-FCEC-4F17-8A46-A597FC0992F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15C92B17-FCEC-4F17-8A46-A597FC0992F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDD664D2-C7F4-4C09-AB3F-9CC50FEB5F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD664D2-C7F4-4C09-AB3F-9CC50FEB5F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD664D2-C7F4-4C09-AB3F-9CC50FEB5F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD664D2-C7F4-4C09-AB3F-9CC50FEB5F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96F701A-4F05-41A0-A0A6-BE950CD561AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96F701A-4F05-41A0-A0A6-BE950CD561AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96F701A-4F05-41A0-A0A6-BE950CD561AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96F701A-4F05-41A0-A0A6-BE950CD561AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2138636E-9FEC-4640-BB09-4C88D4F77037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2138636E-9FEC-4640-BB09-4C88D4F77037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2138636E-9FEC-4640-BB09-4C88D4F77037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2138636E-9FEC-4640-BB09-4C88D4F77037}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

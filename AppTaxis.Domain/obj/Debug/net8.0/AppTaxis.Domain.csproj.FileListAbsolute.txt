@@ -1,0 +1,12 @@
+C:\Users\user\Documents\GitHub\Modulo3\AppTaxis.Domain\bin\Debug\net8.0\AppTaxis.Domain.deps.json
+C:\Users\user\Documents\GitHub\Modulo3\AppTaxis.Domain\bin\Debug\net8.0\AppTaxis.Domain.dll
+C:\Users\user\Documents\GitHub\Modulo3\AppTaxis.Domain\bin\Debug\net8.0\AppTaxis.Domain.pdb
+C:\Users\user\Documents\GitHub\Modulo3\AppTaxis.Domain\obj\Debug\net8.0\AppTaxis.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Modulo3\AppTaxis.Domain\obj\Debug\net8.0\AppTaxis.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Modulo3\AppTaxis.Domain\obj\Debug\net8.0\AppTaxis.Domain.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Modulo3\AppTaxis.Domain\obj\Debug\net8.0\AppTaxis.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Modulo3\AppTaxis.Domain\obj\Debug\net8.0\AppTaxis.Domain.sourcelink.json
+C:\Users\user\Documents\GitHub\Modulo3\AppTaxis.Domain\obj\Debug\net8.0\AppTaxis.Domain.dll
+C:\Users\user\Documents\GitHub\Modulo3\AppTaxis.Domain\obj\Debug\net8.0\refint\AppTaxis.Domain.dll
+C:\Users\user\Documents\GitHub\Modulo3\AppTaxis.Domain\obj\Debug\net8.0\AppTaxis.Domain.pdb
+C:\Users\user\Documents\GitHub\Modulo3\AppTaxis.Domain\obj\Debug\net8.0\ref\AppTaxis.Domain.dll

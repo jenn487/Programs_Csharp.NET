@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppTaxis.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6020abaf6ac45a125d0495e93cd836ec76643ac4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+096742395b6a18958db3dc43a11cacdb8bc73b5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppTaxis.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppTaxis.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

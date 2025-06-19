@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppTaxis.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+208103a96cbd34f166f6a891ebb0ed724a1ea508")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+096742395b6a18958db3dc43a11cacdb8bc73b5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppTaxis.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppTaxis.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
